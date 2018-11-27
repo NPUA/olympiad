@@ -1,5 +1,4 @@
 //Task - 1
-#include "stdafx.h"
 #include <iostream>
 
 using namespace std;
@@ -54,10 +53,10 @@ int main() {
 		if (t == 1)
 			straightDirs(board, n, m, a - 1, b - 1);
 		else if (t == 2)
-			diagonal(board, n, m, a - 1, b - 1);
+			diagonalDirs(board, n, m, a - 1, b - 1);
 		else if (t == 3) {
 			straightDirs(board, n, m, a - 1, b - 1);
-			diagonal(board, n, m, a - 1, b - 1);
+			diagonalDirscd (board, n, m, a - 1, b - 1);
 		}
 	}
 	int count = 0;
