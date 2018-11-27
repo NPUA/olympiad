@@ -1,5 +1,38 @@
 # Olympiad results
 
+## tl;dr
+
+### **Problems solved**
+
+1 problem (2)
+
+- Aram Xudaverdyan (H719-1)
+- Robert Minasyan* (12Z)
+
+2 problems (1)
+
+- Armen Berujanyan
+
+3 problems (-)
+
+Problems can be found [here](olymp_politex.docx)
+
+### **Groups and Participants**
+
+College
+
+- 11th grade: 3
+- 12th grade: 2
+
+Uni
+
+- First year: 2
+- Second year: 7
+
+Unknown: 4
+
+Overall: 18
+
 ## C\#
 
 | Name/Surname        | Group   | Task 1 | Task 2 | Taks 3 |
@@ -28,7 +61,7 @@
 | Robert Minasyan*     | 12Z     | NC     | NC     | +      |
 | Sargis Galoyan*      | 12Z     | NC     | NC     | UE     |
 
--------------------------------------------------------------
+---
 
 ### Legend
 
