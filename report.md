@@ -1,147 +1,35 @@
-# C#
+# Olympiad results
 
-## Garik_Mikayelyan_varjaran
+## C\#
 
-### Task 1
-    No code
+| Name/Surname        | Group   | Task 1 | Task 2 | Taks 3 |
+|:--------------------|:-------:|:------:|:------:|:------:|
+| Garik Mikayelyan*   | -       | NC     | -      | NC     |
+| Hakob Nersesyan     | TT855-1 | UE     | +      | -      |
+| Harutyun Hunanyan*  | 11A     | -      | UE     | -      |
+| Hrayr Hayrapetyan*  | -       | NC     | -      | NC     |
 
-### Task 2
-    -
+## C/C++
 
-### Task 3
-    No code 
+| Name/Surname         | Group   | Task 1 | Task 2 | Taks 3 |
+|:---------------------|:-------:|:------:|:------:|:------:|
+| Alexandr Martirosyan | H719-3  | -      | NC     | NC     |
+| Ani Karapetyan       | H719-2  | -      | NC     | -      |
+| Aram Madatyan*       | 11Y     | -      | NC     | NC     |
+| Aram Xudaverdyan     | H719-1  | +      | -      | NC     |
+| Armen Berujanyan     | -       | +      | +      | NC     |
+| Davit Movsisyan      | H721-1  | -      | NC     | NC     |
+| Edik Andriasyan      | TT820-2 | NC     | -      | NC     |
+| Edmond Movsisyan     | H721-1  | -      | NC     | NC     |
+| Gasparyan Ruben      | Q74-2   | -      | NC     | NC     |
+| Hayk Lachikyan*      | 11B     | NC     | -      | -      |
+| Narek Naltakyan      | H719-1  | -      | -      | NC     |
 
-## Hakob Nersesyan TT855-1
+-------------------------------------------------------------
 
-### Task 1
-    Crashes with an exception
+### Legend
 
-### Task 2
-    +
-
-### Task 3
-    -
-
-## Harutyun_Hunanyan_11a
-
-### Task 1
-    -
-
-### Task 2
-    Crashes with an exception
-
-### Task 3
-    -
-
-## Hrayr_Hayrapetyan_Varjaran
-
-### Task 1
-    No code
-
-### Task 2
-    -
-
-### Task 3
-    No code
-
-# C++
-
-## Alexandr Martirosyan h-719-3
-
-### MXndir1
-    -
-
-## Ani_Karapetyan_H719_2
-
-### K_Task_1
-	-
-### K_Task_2
-	no code
-### K_Task_3
-	-
-
-## Aram Madatyan-11y
-
-### a task 1
-	-
-
-## Aram Xudaverdyan_H719_1
-
-### XTask1
-	+
-### XTask2
-	-
-
-## Armen_Berujanyan
-
-### M_Task1
-    +
-
-### M_Task2
-    +
-
-### M_Task3
-    No code
-
-## Davit Movsisyan H721-1
-
-### M_Task1
-    -
-### M_Task2
-    no code     
-### M_Task3
-    no code
-
-## Edik-Andriasyan_TT820-2
-
-### M_Task1
-    no code
-
-### M_Task2
-    -
-
-### M_Task3
-    no code
-
-## Edmond Movsisyan H721 - 1
-
-### M_Task1
-    -
-
-### M_Task2
-    no code
-
-### M_Task3
-    no code
-
-## Gasparyan Ruben Q74-2
-
-### M_Task1
-    -
-
-### M_Task2
-    No Code
-
-### M_Task3
-    No code
-
-## Hayk Lachikyan 11b
-
-### H_Task1
-    No code
-
-### H_Task2
-    -
-### H_Task3
-    -   
-
-## Narek Naltakyan H719-1
-
-### N_Task1
-    -
-
-### N_Task2
-    -
-
-### N_Task3
-    No Code
+**CM** - Code Missing  
+**CI** - Code Incomplete  
+**UE** - Unhandled Exception  
+**\*** - NPUA college  
