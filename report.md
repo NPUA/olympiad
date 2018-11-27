@@ -15,7 +15,7 @@
 
 3 problems (-)
 
-Problems can be found [here](olymp_politex.docx)
+Problems can be found [here](olympiad_problems.pdf)
 
 ### **Groups and Participants**
 
