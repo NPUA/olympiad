@@ -1,54 +1,27 @@
-# C++
+# C#
 
-## Armen_Berujanyan
+## Garik_Mikayelyan_varjaran
 
 ### M_Task1
-    +
-
-### M_Task2
-    +
-
-### M_Task3
     No code
 
-## Davit Movsisyan H721-1
-
-### M_Task1
-    -
 ### M_Task2
-    no code     
-### M_Task3
-    no code
+    - 
 
-##Edik-Andriasyan_TT820-2
+## Hakob Nersesyan TT855-1
 
-### M_Task1
-    no code
+### Task 1
+    Crashes with an exception
 
-### M_Task2
+### Task 2
+    +
+
+### Task 3
     -
 
-### M_Task3
-    no code
+## Harutyun Hunanyan 11a
 
-##Edmond Movsisyan H721 - 1
-
-### M_Task1
-    -
-
-### M_Task2
-    no code
-
-### M_Task3
-    no code
-
-
-
-
-
-
-
-
+# C++
 
 ## Alexandr Martirosyan h-719-3
 
@@ -75,3 +48,45 @@
 	+
 ### XTask2
 	-
+
+## Armen_Berujanyan
+
+### M_Task1
+    +
+
+### M_Task2
+    +
+
+### M_Task3
+    No code
+
+## Davit Movsisyan H721-1
+
+### M_Task1
+    -
+### M_Task2
+    no code     
+### M_Task3
+    no code
+
+## Edik-Andriasyan_TT820-2
+
+### M_Task1
+    no code
+
+### M_Task2
+    -
+
+### M_Task3
+    no code
+
+## Edmond Movsisyan H721 - 1
+
+### M_Task1
+    -
+
+### M_Task2
+    no code
+
+### M_Task3
+    no code
