@@ -2,11 +2,14 @@
 
 ## Garik_Mikayelyan_varjaran
 
-### M_Task1
+### Task 1
     No code
 
-### M_Task2
-    - 
+### Task 2
+    -
+
+### Task 3
+    No code 
 
 ## Hakob Nersesyan TT855-1
 
