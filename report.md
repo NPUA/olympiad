@@ -22,7 +22,6 @@
 ### Task 3
     -
 
-
 ## Harutyun_Hunanyan_11a
 
 ### Task 1
