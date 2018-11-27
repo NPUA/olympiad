@@ -19,7 +19,25 @@
 ### Task 3
     -
 
-## Harutyun Hunanyan 11a
 
-# C++
+## Harutyun_Hunanyan_11a
 
+### Task 1
+    -
+
+### Task 2
+    Crashes with an exception
+
+### Task 3
+    -
+
+## Hrayr_Hayrapetyan_Varjaran
+
+### Task 1
+    No code
+
+### Task 2
+    -
+
+### Task 3
+    No code
