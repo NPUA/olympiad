@@ -1,25 +1,43 @@
-# C#
+# C++
 
-## Garik_Mikayelyan_varjaran
+## Gasparyan Ruben
 
 ### M_Task1
-    No code
-
-### M_Task2
-    - 
-
-## Hakob Nersesyan TT855-1
-
-### Task 1
-    Crashes with an exception
-
-### Task 2
-    +
-
-### Task 3
     -
 
-## Harutyun Hunanyan 11a
+### M_Task2
 
-# C++
+    No Code
+### M_Task3
+
+    No code
+
+## Hayk Lachikyan
+
+### H_Task1
+
+    No code
+
+### H_Task2
+
+    -
+### H_Task3
+
+    -   
+
+
+## Narek Naltakyan
+
+### N_Task1
+
+    -
+
+### N_Task2
+
+    -
+
+### N_Task3
+
+    No Code
+
 
