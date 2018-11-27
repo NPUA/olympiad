@@ -4,32 +4,35 @@
 
 | Name/Surname        | Group   | Task 1 | Task 2 | Taks 3 |
 |:--------------------|:-------:|:------:|:------:|:------:|
-| Garik Mikayelyan*   | -       | NC     | -      | NC     |
+| Garik Mikayelyan*   | -       | CI     | -      | NC     |
 | Hakob Nersesyan     | TT855-1 | UE     | +      | -      |
 | Harutyun Hunanyan*  | 11A     | -      | UE     | -      |
 | Hrayr Hayrapetyan*  | -       | NC     | -      | NC     |
 
 ## C/C++
 
-| Name/Surname         | Group   | Task 1 | Task 2 | Taks 3 |
+| Name/Surname         | Group   | Task 1 | Ta`sk 2 | Taks 3 |
 |:---------------------|:-------:|:------:|:------:|:------:|
 | Alexandr Martirosyan | H719-3  | -      | NC     | NC     |
 | Ani Karapetyan       | H719-2  | -      | NC     | -      |
 | Aram Madatyan*       | 11Y     | -      | NC     | NC     |
 | Aram Xudaverdyan     | H719-1  | +      | -      | NC     |
-| Armen Berujanyan     | -       | +      | +      | NC     |
+| Armen Berujanyan     | -       | +      | +      | CI     |
 | Davit Movsisyan      | H721-1  | -      | NC     | NC     |
 | Edik Andriasyan      | TT820-2 | NC     | -      | NC     |
 | Edmond Movsisyan     | H721-1  | -      | NC     | NC     |
 | Gasparyan Ruben      | Q74-2   | -      | NC     | NC     |
 | Hayk Lachikyan*      | 11B     | NC     | -      | -      |
 | Narek Naltakyan      | H719-1  | -      | -      | NC     |
+| Rafayel Sahakyan     | -       | NC     | CI     | NC     |
+| Robert Minasyan*     | 12Z     | NC     | NC     | +      |
+| Sargis Galoyan*      | 12Z     | NC     | NC     | UE     |
 
 -------------------------------------------------------------
 
 ### Legend
 
-**CM** - Code Missing  
+**NC** - No Code  
 **CI** - Code Incomplete  
 **UE** - Unhandled Exception  
 **\*** - NPUA college  
