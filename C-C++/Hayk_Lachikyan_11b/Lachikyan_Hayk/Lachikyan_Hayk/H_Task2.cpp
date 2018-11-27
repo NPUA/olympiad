@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-int   _main() {
+int  main(){
 	int N, P;
 	cout << "Enter N and P ";
 	cin >> N ;

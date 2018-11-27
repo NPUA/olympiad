@@ -3,7 +3,7 @@
 
 #include "stdafx.h"
 
-
+jhgjhghgjh
 int main()
 {
 	int mat[100][100]; int a, b, t, k, n, m, i, j,h,l;
