@@ -4,10 +4,11 @@
 
 ### **Problems solved**
 
-1 problem (2)
+1 problem (3)
 
 - Aram Xudaverdyan (H719-1)
 - Robert Minasyan* (12Z)
+- Hakob Nersesyan (TT855-1)
 
 2 problems (1)
 
